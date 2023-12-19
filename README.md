@@ -44,11 +44,3 @@ This program allows users to play a classic Hangman game. The game randomly sele
 ## Contributors
 
 - [Dawood Khan](https://github.com/the-w00d/Hangman.git)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Replace placeholders like "yourusername" with your actual GitHub username or appropriate information. Additionally, feel free to add more sections or customize the content to better suit your project and its features. Save this content into a file named `README.md` at the root of your project directory. This README will be displayed on your GitHub repository's main page and will provide users with information about your Hangman game project.
